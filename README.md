@@ -11,11 +11,9 @@
   <p> Estudando ReactNative </p>
   
   <h2> Cursos: </h2>
+  <p> Cursando FrontEnd pela instituição ImagineSchool; </p>
+   <a href="https://imagineschool.com.br">Visitar site ImagineSchool</a> 
+  <p> Cursando o BOOTCAMP SANTANDER FULLSTACK pela Digital Inovation </p>
+  <a href="https://web.digitalinnovation.one/">Visitar site Digital Inovation</a> 
   
-    <p> Cursando Front-End pela ImagineSchool </p> (https://imagineschool.com.br/) ;
-  <p> Aprovado no Curso no de BOOTCAMP FULL STACK pelo Santander em parceria com Digital inovation. </p>
-
-<!---
-dioliviers/dioliviers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
