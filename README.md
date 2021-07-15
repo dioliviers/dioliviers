@@ -8,11 +8,11 @@
  <h2> Principais atribuições </h2>
  
   HTML , CSS , JS
-  <p> Estudando ReactNative <p>
+  <p> Estudando ReactNative </p>
   
-  <h2> Cursos:
+  <h2> Cursos: </h2>
   
-    <p> Cursando Front-End pela ImagineSchool (https://imagineschool.com.br/);</p>
+    <p> Cursando Front-End pela ImagineSchool (https://imagineschool.com.br/)</p>;
   <p> Aprovado no Curso no de BOOTCAMP FULL STACK pelo Santander em parceria com Digital inovation. </p>
 
 <!---
