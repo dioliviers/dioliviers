@@ -12,8 +12,8 @@
   
   <h2> Cursos:
   
-  <p> Cursando Front-End pela ImagineSchool (https://imagineschool.com.br/);
-  <p> Aprovado no Curso no de BOOTCAMP FULL STACK pelo Santander em parceria com Digital inovation. 
+    <p> Cursando Front-End pela ImagineSchool (https://imagineschool.com.br/);</p>
+  <p> Aprovado no Curso no de BOOTCAMP FULL STACK pelo Santander em parceria com Digital inovation. </p>
 
 <!---
 dioliviers/dioliviers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
