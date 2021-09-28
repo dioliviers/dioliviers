@@ -7,8 +7,8 @@
 
  <h2> Principais atribuições </h2>
  
-  HTML , CSS , JS
-  <p> Estudando ReactNative </p>
+  HTML , CSS , JS , BOOTSTRAP.
+  
   
   <h2> Cursos: </h2>
   <p> Cursando FrontEnd pela instituição ImagineSchool; </p>
