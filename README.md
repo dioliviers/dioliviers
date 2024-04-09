@@ -7,13 +7,27 @@
 
  <h2> Principais atribuições </h2>
  
-  HTML , CSS , JS , BOOTSTRAP.
-  
-  
-  <h2> Cursos: </h2>
-  <p> Cursando FrontEnd pela instituição ImagineSchool; </p>
-   <a href="https://imagineschool.com.br">Visitar site ImagineSchool</a> 
-  <p> Cursando o BOOTCAMP SANTANDER FULLSTACK pela Digital Inovation </p>
-  <a href="https://web.digitalinnovation.one/">Visitar site Digital Inovation</a> 
+<ul>
+  <li>
+    Wordpress
+  </li>
+   <li>
+    Html
+  </li>
+   <li>
+    CSS/SASS
+  </li>
+   <li>
+    PHP
+  </li>
+   <li>
+    REACT
+  </li>
+   <li>
+    Docker
+  </li>
+
+</ul>
+ 
   
  
